@@ -1,0 +1,23 @@
+.root {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 1% 5% 1% 5%;
+}
+
+.gridRoot {
+    flex-grow: 1;
+}
+
+.container {
+    flex-grow: 1;
+}
+
+.welcome {
+    color: #fff;
+    padding: 15px;
+}
+
+
+.paragraph {
+    margin-top: 16px;
+}
